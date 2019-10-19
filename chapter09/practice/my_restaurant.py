@@ -1,0 +1,15 @@
+from restaurant import Restaurant
+my_restaurant = Restaurant('jack wudi', 'china')
+# pan_restaurant = Restaurant('pan', 'china')
+# jack_restaurant = Restaurant('jack', 'fuan')
+# print("My restaurant name is " + my_restaurant.restaurant_name.title()
+#     + " and type is " + my_restaurant.restaurant_type)
+
+#my_restaurant.describe_restaurant()
+# pan_restaurant.describe_restaurant()
+# jack_restaurant.describe_restaurant()
+# my_restaurant.open_restaurant()
+my_restaurant.set_number_served(100)
+my_restaurant.read_number_served()
+my_restaurant.increment_number_served(200)
+my_restaurant.read_number_served()
