@@ -1,0 +1,3 @@
+In Python I can deal with data
+In Python I can deal with number
+In Python I can write demo
